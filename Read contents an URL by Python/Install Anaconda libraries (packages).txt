@@ -1,0 +1,14 @@
+Install Anaconda libraries (packages)
+
+-Go to this website 
+https://anaconda.org/akode/repo
+-Write in the search box which library (package) you want and install it < EASY right
+
+-OpenCV library (package)
+https://anaconda.org/conda-forge/opencv
+
+-Face Recognition library (package)
+https://anaconda.org/akode/face_recognition_models
+
+
+NOTE: Copy the command in the page and paste it the Anaconda Prompt

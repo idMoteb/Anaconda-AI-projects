@@ -1,0 +1,8 @@
+Anaconda quick & easy installation
+
+Steps to install Anaconda
+-Smile and be happy 
+- Go to this website (https://docs.anaconda.com/anaconda/user-guide/getting-started/) and install Anaconda 
+NOTE: Anaconda spyder will install with Anaconda.
+
+Now you can use Anaconda spyder for Python and you will use Anaconda Prompt for update Anaconda, install libraries (packages) for Python 
